@@ -1,0 +1,39 @@
+body {
+    font-family: 'Playfair Display', serif, 'Raleway', sans-serif, 'Roboto Mono', monospace;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    color: rgb(13, 00, 70);
+}
+
+h2 {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+h3 {
+    color: grey;
+    margin-top: 20px;
+}
+
+.m {
+    color: black;
+    font-size: 80px;
+}
+
+#menu {
+    background-color: white;
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    height: 0px;
+}
+
+.contenido {
+    color: black;
+    overflow: hidden;
+}
